@@ -1,5 +1,7 @@
 
 
 랜딩 페이지: 웹 서비스 소개
-![image](https://github.com/ai6-crop-doctor/.github/assets/72302404/96151248-1b0f-4fb3-8463-12da93acb986)
+
+![image](https://github.com/ai6-crop-doctor/.github/assets/72302404/55142c62-c371-4fa7-ac14-2905e2805fb8)
+
 
