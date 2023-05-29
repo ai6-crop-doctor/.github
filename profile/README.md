@@ -2,7 +2,7 @@
 
 ## 1. 랜딩 페이지: 웹 서비스 소개
 
-![image](./.github/profile/gif/1.랜딩.gif)
+![image](./gif/1.랜딩.gif)
 
 
 
